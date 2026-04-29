@@ -1,7 +1,7 @@
-# Hi 👋, I'm Samar Shrestha  
-🚀 QA Enthusiast | Software Testing | API Testing  
+                    # Hi 👋, I'm Samar Shrestha  
+            🚀 QA Enthusiast | Software Testing | API Testing  
 
-*Turning requirements into reliable, high-quality software.*
+          *Turning requirements into reliable, high-quality software.*
 
 ---
 
