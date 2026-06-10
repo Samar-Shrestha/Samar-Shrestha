@@ -66,7 +66,7 @@ CloudFactory / Sprout Technology, Kathmandu
 
 ## 📫 Contact Me
 - 📧 Email: shresthasamar76@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/samar-shrestha-512101249  
+- 🔗 LinkedIn: https://www.linkedin.com/in/samarshrestha  
 
 ---
 
